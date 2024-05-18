@@ -1,0 +1,34 @@
+
+.container {
+    margin: 20px;
+}
+
+.tableContainer {
+    overflow-x: auto;
+}
+
+.gradesTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.gradesTable th,
+.gradesTable td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+.studentHeader {
+    background-color: #82c192;
+    font-weight: bold;
+}
+
+.studentName {
+    font-weight: bold;
+}
+
+.gradeCell {
+    font-weight: bold;
+    background-color: #82c192;
+}
