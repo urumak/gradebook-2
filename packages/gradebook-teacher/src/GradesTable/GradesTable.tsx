@@ -1,5 +1,3 @@
-import React from "react";
-
 import styles from "./GradesTable.module.scss";
 
 export interface Grade {
